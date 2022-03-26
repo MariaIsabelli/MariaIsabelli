@@ -1,12 +1,20 @@
-### Hi there 👋 I´m Maria Isabelli
+
 <div aling = "center>
    <A href="https://github.com/MariaIsabelli">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaIsabelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaIsabelli&layout=compact&langs_count=7&theme=dracula"/>
                                                                                                                                   
-                                                                                                                                                     </div>
-                     
-     <div style="display: inline_block"><br>
+     <img align="right" height="150" src=""/>                                                                                                                                                </div>
+    .method public static printHelloWorld()V
+    .registers 2
+    sget-object v0, Ljava/lang/System;->out:Ljava/io/PrintStream;
+    const-string v1, "Hello World ♥"
+    invoke-virtual {v0,v1}, Ljava/io/PrintStream;->println(Ljava/lang/String;)V
+    return-void
+    .end method               
+    
+                                                                                                                                                     
+                                                                                                                                                     
   <img align="center" alt="isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="isa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="isa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -16,8 +24,14 @@
   <img align="center" alt="isa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="isa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="isa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="isa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg">                                                                                                                                           
-                                                                                                                                               
+  <img align="center" alt="isa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg"> 
+  <img align="center" alt="isa-aws" heigth="200" width="100" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
+          <img align="center" alt="isa-microsofit" heigth="200" width="100" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img align="center" alt="isa-hacker" heigth="200" width="100" src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"> 
+ <img align="center" alt="isa-owasp" heigth="200" width="100" src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"> 
+  <img align="center" alt="isa-android" heigth="200" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
+   <img align="center" alt="isa-linux" heigth="200" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+   
   <div>
                                                                                                                                                      </div>
 <div alingn="center">
