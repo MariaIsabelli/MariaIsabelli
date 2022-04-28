@@ -27,6 +27,7 @@
   <img align="center" alt="isa-owasp" heigth="200" width="100" src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"> 
   <img align="center" alt="isa-android" heigth="200" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
   <img align="center" alt="isa-linux" heigth="200" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+     <img align="left" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
                                                                                                                                                
 <div alingn="center">
 <img src"https://user-images.githubusercontent.com/89652212/136608554-3e641b83-456b-4a4a-aea6-c75338797d87.jpg" width="300px"/>
