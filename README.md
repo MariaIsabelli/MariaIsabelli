@@ -3,7 +3,7 @@
    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaIsabelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaIsabelli&layout=compact&langs_count=7&theme=dracula"/>
    </div>
-        <img align="right" height="150" src="https://github.com/MariaIsabelli/MariaIsabelli/blob/main/311-3117586_anime-desktop-wallpaper-4k.jpg"/>                                                                                                                                                  
+        <img align="right" height="150" src="https://github.com/MariaIsabelli/MariaIsabelli/blob/main/komi.png.jpg"/>                                                                                                                                                  
                                                                                                                                   
                                                                                                                                                 
   
