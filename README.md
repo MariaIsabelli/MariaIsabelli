@@ -19,13 +19,13 @@
   <img align="center" alt="isa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="isa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="isa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="isa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="isa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg"> 
-  <img align="center" alt="isa-aws" heigth="200" width="100" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
+  <img align="center" alt="isa-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="isa-go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg"> 
+  <img align="center" alt="isa-aws" heigth="200" width="100" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=pink"> 
   <img align="center" alt="isa-microsofit" heigth="200" width="100" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
   <img align="center" alt="isa-hacker" heigth="200" width="100" src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"> 
   <img align="center" alt="isa-owasp" heigth="200" width="100" src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"> 
-  <img align="center" alt="isa-android" heigth="200" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
+  <img align="center" alt="isa-android" heigth="200" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logo"> 
   <img align="center" alt="isa-linux" heigth="200" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
      <img align="left" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
                                                                                                                                                
