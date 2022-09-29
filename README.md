@@ -20,7 +20,6 @@
   <img align="center" alt="isa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="isa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="isa-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="isa-go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg"> 
   <img align="center" alt="isa-aws" heigth="200" width="100" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=pink"> 
   <img align="center" alt="isa-microsofit" heigth="200" width="100" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
   <img align="center" alt="isa-hacker" heigth="200" width="100" src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"> 
@@ -33,7 +32,6 @@
 <img src"https://user-images.githubusercontent.com/89652212/136608554-3e641b83-456b-4a4a-aea6-c75338797d87.jpg" width="300px"/>
 </div>
                  <img align="right" height="150" style="border-radius:50px;" src="https://github.com/MariaIsabelli/MariaIsabelli/blob/main/001.gif">
-                 <img align="right" height="150" style="border-radius:50px;" src="https://github.com/MariaIsabelli/MariaIsabelli/blob/main/download20211203204137.png">
        <a href="https://www.linkedin.com/in/maria-isabelli-pinto-365543215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>                                                
  <a href = "mailto:mariaisabellipinto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/pumpkin.hell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
