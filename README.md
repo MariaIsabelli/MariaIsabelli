@@ -4,7 +4,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaIsabelli&layout=compact&langs_count=7&theme=dracula"/>
    </div>
         <img align="right" height="150" src="https://github.com/MariaIsabelli/MariaIsabelli/blob/main/komi.png.jpg"/>                                                                                                                                                  
-                                                                                                                                  
+        
                                                                                                                                                 
   
     .FSocity.dat                             
@@ -32,7 +32,7 @@
      <img align="left" alt="git" height="30" width="40" src="https://github.com/MariaIsabelli/MariaIsabelli/blob/main/icons8-git-48.png">
                                                                                                                                                
 <div alingn="center">
-<img src"https://user-images.githubusercontent.com/89652212/136608554-3e641b83-456b-4a4a-aea6-c75338797d87.jpg" width="300px"/>
+
 </div>
                  <img align="right" height="150" style="border-radius:50px;" src="https://github.com/MariaIsabelli/MariaIsabelli/blob/main/001.gif">
        <a href="https://www.linkedin.com/in/maria-isabelli-pinto-365543215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>                                                
