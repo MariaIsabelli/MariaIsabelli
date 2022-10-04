@@ -29,6 +29,7 @@
   <img align="center" alt="isa-linux" heigth="200" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
      <img align="left" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
      <img align="left" alt="golang" height="30" width="40" src="https://github.com/MariaIsabelli/MariaIsabelli/blob/main/icons8-golang-48.png">
+     <img align="left" alt="git" height="30" width="40" src="https://github.com/MariaIsabelli/MariaIsabelli/blob/main/icons8-git-48.png">
                                                                                                                                                
 <div alingn="center">
 <img src"https://user-images.githubusercontent.com/89652212/136608554-3e641b83-456b-4a4a-aea6-c75338797d87.jpg" width="300px"/>
