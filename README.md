@@ -1,3 +1,33 @@
+```go
+package main
+
+import "fmt"
+
+type DevSecOps struct {
+    data map[string]interface{}
+}
+
+type MariaIsabelli struct {
+    DevSecOps
+}
+
+func NewMariaIsabelli() *MariaIsabelli {
+    data := map[string]interface{}{
+        "work":             "DevSecOps",
+        "age":              "🐱 21",
+        "address":          "Botucatu-SP",
+        "languages":        []string{"JavaScript", "python", "c/c#", "java", "Go"},
+        "operationalSystem": "Linux",
+    }
+    return &MariaIsabelli{DevSecOps{data: data}}
+}
+
+func main() {
+    maria := NewMariaIsabelli()
+    fmt.Println(maria.data)
+}
+
+```
 <div aling="center">
    <A href="https://github.com/MariaIsabelli">
    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaIsabelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
