@@ -16,7 +16,7 @@ func NewMariaIsabelli() *MariaIsabelli {
         "work":             "DevSecOps",
         "age":              "🐱 22",
         "address":          "Botucatu-SP",
-        "languages":        []string{"JavaScript", "python", "c/c#", "java", "Go"},
+        "languages":        []string{"JavaScript", "python", "c", "java", "Go", "PHP"},
         "operationalSystem": "Linux",
     }
     return &MariaIsabelli{DevSecOps{data: data}}
