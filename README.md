@@ -14,7 +14,7 @@ type MariaIsabelli struct {
 func NewMariaIsabelli() *MariaIsabelli {
     data := map[string]interface{}{
         "work":             "DevSecOps",
-        "age":              "🐱 21",
+        "age":              "🐱 22",
         "address":          "Botucatu-SP",
         "languages":        []string{"JavaScript", "python", "c/c#", "java", "Go"},
         "operationalSystem": "Linux",
