@@ -32,6 +32,7 @@ func main() {
    <A href="https://github.com/MariaIsabelli">
    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaIsabelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaIsabelli&layout=compact&langs_count=7&theme=dracula"/>
+      
    </div>
    FSocity.dat
         <img align="right" height="150" src="https://github.com/MariaIsabelli/MariaIsabelli/blob/main/komi.png.jpg"/>
@@ -65,5 +66,5 @@ func main() {
  <a href = "mailto:mariaisabellipinto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/marie.isabelli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
+   <img align="right" height="150" style="border-radius:50px;" src="https://github.com/MariaIsabelli/MariaIsabelli/blob/main/WOMEN_WHO_GO.png"">
  
